@@ -1,0 +1,6 @@
+<li class="dropdown"><a href="#"><span>Projects</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <ul>
+              <li><a href="gallery1.html">Interiors</a></li>
+              <li><a href="gallery2.html">Exterors</a></li>
+            </ul>
+          </li>
